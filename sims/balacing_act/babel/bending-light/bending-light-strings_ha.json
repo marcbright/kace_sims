@@ -1,0 +1,431 @@
+{
+  "air": {
+    "value": "Iska ",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Iska "
+      }
+    ]
+  },
+  "water": {
+    "value": "Ruwa ",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Ruwa "
+      }
+    ]
+  },
+  "glass": {
+    "value": "Gilashi ",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Gilashi "
+      }
+    ]
+  },
+  "diamond": {
+    "value": "Lu’u lu’u",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Lu’u lu’u"
+      }
+    ]
+  },
+  "mysteryA": {
+    "value": "Asiri mai harafin A",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Asiri mai harafin A"
+      }
+    ]
+  },
+  "mysteryB": {
+    "value": "Asiri mai harafin B",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Asiri mai harafin B"
+      }
+    ]
+  },
+  "miss": {
+    "value": "-",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660925445456,
+        "oldValue": "",
+        "newValue": "rashi -"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665589280747,
+        "oldValue": "rashi -",
+        "newValue": "-"
+      }
+    ]
+  },
+  "pattern_0value_percent": {
+    "value": "{0}%",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660925445456,
+        "oldValue": "",
+        "newValue": "{0}%"
+      }
+    ]
+  },
+  "custom": {
+    "value": "Na al’ada",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Na al’ada"
+      }
+    ]
+  },
+  "unknown": {
+    "value": "Minene harafin n",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Minene harafin n"
+      }
+    ]
+  },
+  "indexOfRefraction": {
+    "value": "Lambar da ke nuna lankwasawar da haske kanyi idan ya ratsa abubuwa biyu (n)",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Lambar da ke nuna lankwasawar da haske kanyi idan ya ratsa abubuwa biyu "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665633848294,
+        "oldValue": "Lambar da ke nuna lankwasawar da haske kanyi idan ya ratsa abubuwa biyu ",
+        "newValue": "Lambar da ke nuna lankwasawar da haske kanyi idan ya ratsa abubuwa biyu (n)"
+      }
+    ]
+  },
+  "intensity": {
+    "value": "Tsanani",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Tsanani"
+      }
+    ]
+  },
+  "slowMotion": {
+    "value": "Motsawa sannu-sannu",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Tafiya sannu sannu"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1657338506022,
+        "oldValue": "Tafiya sannu sannu",
+        "newValue": "Motsawa sannu sannu"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1660535313333,
+        "oldValue": "Motsawa sannu sannu",
+        "newValue": "Motsawa sannu-sannu"
+      }
+    ]
+  },
+  "normalSpeed": {
+    "value": "Na all'ada",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660925445456,
+        "oldValue": "",
+        "newValue": "Na all'ada"
+      }
+    ]
+  },
+  "material": {
+    "value": "Wani abin amfani",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Wani abin amfani"
+      }
+    ]
+  },
+  "angles": {
+    "value": "Kusurwowi",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Kusurwowi"
+      }
+    ]
+  },
+  "normalLine": {
+    "value": "Na all'ada",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660925445456,
+        "oldValue": "",
+        "newValue": "Na all'ada"
+      }
+    ]
+  },
+  "ray": {
+    "value": "Haske ",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Haske "
+      }
+    ]
+  },
+  "wave": {
+    "value": "Taguwa ",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Kama da igiyar ruwa "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1660535313333,
+        "oldValue": "Kama da igiyar ruwa ",
+        "newValue": "Taguwa "
+      }
+    ]
+  },
+  "intro": {
+    "value": "Gabatarwa ",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Gabatarwa "
+      }
+    ]
+  },
+  "objects": {
+    "value": "Abubuwa ",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Abubuwa "
+      }
+    ]
+  },
+  "reflections": {
+    "value": "Tafiya da dawowa na haske ",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Tafiya da dawowa na haske "
+      }
+    ]
+  },
+  "protractor": {
+    "value": "Lula mai nuna lanƘwasawar kusurwa ",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Lula mai numa lankwasawar kusurwa "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1657338506022,
+        "oldValue": "Lula mai numa lankwasawar kusurwa ",
+        "newValue": "Lula mai nuna lankwasawar kusurwa "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1660707310227,
+        "oldValue": "Lula mai nuna lankwasawar kusurwa ",
+        "newValue": "Lula mai nuna lanƘwasawar kusurwa "
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660925445456,
+        "oldValue": "",
+        "newValue": "nm"
+      }
+    ]
+  },
+  "wavelengthPattern": {
+    "value": "{0} nm",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660925445456,
+        "oldValue": "",
+        "newValue": "{0} nm"
+      }
+    ]
+  },
+  "environment": {
+    "value": "Muhalli ",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Muhalli "
+      }
+    ]
+  },
+  "prisms": {
+    "value": "Gilashi mai siffar Dala",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Gilashi mai siffar Dala"
+      }
+    ]
+  },
+  "speed": {
+    "value": "Sauri ",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Sauri "
+      }
+    ]
+  },
+  "velocityPattern": {
+    "value": "{0} c",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660925445456,
+        "oldValue": "",
+        "newValue": "{0} c"
+      }
+    ]
+  },
+  "unknownVelocity": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1660925445456,
+        "oldValue": "",
+        "newValue": "Alamar tambaya"
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1665589280748,
+        "oldValue": "Alamar tambaya",
+        "newValue": "?"
+      }
+    ]
+  },
+  "time": {
+    "value": "Lokaci ",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Lokaci "
+      }
+    ]
+  },
+  "moreTools": {
+    "value": "Sauran kayan aiki ",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Karin abubuwan aiki "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1657298501374,
+        "oldValue": "Karin abubuwan aiki ",
+        "newValue": "Sauran abubuwan aiki "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1657338506022,
+        "oldValue": "Sauran abubuwan aiki ",
+        "newValue": "Sauran kayan aiki "
+      }
+    ]
+  },
+  "bending-light.title": {
+    "value": "Lanƙwasawar haske ",
+    "history": [
+      {
+        "userId": 945049,
+        "timestamp": 1657298347833,
+        "oldValue": "",
+        "newValue": "Lankwasa haske "
+      },
+      {
+        "userId": 945049,
+        "timestamp": 1660535313333,
+        "oldValue": "Lankwasa haske ",
+        "newValue": "Lanƙwasawar haske "
+      }
+    ]
+  }
+}

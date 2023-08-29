@@ -1,0 +1,70 @@
+{
+  "en": {
+    "calculus-grapher.title": {
+      "value": "Calculus Grapher"
+    },
+    "screen.derivative": {
+      "value": "Derivative"
+    },
+    "screen.integral": {
+      "value": "Integral"
+    },
+    "screen.advanced": {
+      "value": "Advanced"
+    },
+    "screen.lab": {
+      "value": "Lab"
+    },
+    "smooth": {
+      "value": "Smooth"
+    },
+    "symbol.d": {
+      "value": "d"
+    },
+    "symbol.f": {
+      "value": "f"
+    },
+    "symbol.x": {
+      "value": "x"
+    },
+    "symbol.t": {
+      "value": "t"
+    },
+    "discontinuities": {
+      "value": "Discontinuities:"
+    },
+    "values": {
+      "value": "Values:"
+    },
+    "notation": {
+      "value": "Notation:"
+    },
+    "Lagrange": {
+      "value": "Lagrange:"
+    },
+    "Leibniz": {
+      "value": "Leibniz:"
+    },
+    "variable": {
+      "value": "Variable:"
+    },
+    "checkbox.areaUnderCurve": {
+      "value": "Area Under<br>Curve"
+    },
+    "checkbox.tangent": {
+      "value": "Tangent"
+    },
+    "barometer.netSignedArea": {
+      "value": "Net Signed<br>Area"
+    },
+    "barometer.slopeOfTangent": {
+      "value": "Slope of<br>Tangent"
+    },
+    "predict": {
+      "value": "Predict"
+    },
+    "show": {
+      "value": "Show"
+    }
+  }
+}

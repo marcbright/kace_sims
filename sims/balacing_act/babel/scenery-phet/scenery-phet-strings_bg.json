@@ -1,0 +1,140 @@
+{
+  "key.enter": {
+    "value": "Въведи",
+    "history": [
+      {
+        "userId": 1070013,
+        "timestamp": 1657054947096,
+        "oldValue": "",
+        "newValue": "Въведи"
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Вземи или пусни {{thing}}",
+    "history": [
+      {
+        "userId": 1070013,
+        "timestamp": 1657054947096,
+        "oldValue": "",
+        "newValue": "Вземи или пусни {{thing}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "Вземи или пусни {{thing}}",
+    "history": [
+      {
+        "userId": 1070013,
+        "timestamp": 1657054947096,
+        "oldValue": "",
+        "newValue": "Вземи или пусни {{thing}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "или",
+    "history": [
+      {
+        "userId": 1070013,
+        "timestamp": 1657088218383,
+        "oldValue": "",
+        "newValue": "или"
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Надолу",
+    "history": [
+      {
+        "userId": 1070013,
+        "timestamp": 1657088218383,
+        "oldValue": "",
+        "newValue": "Надолу"
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Нагоре",
+    "history": [
+      {
+        "userId": 1070013,
+        "timestamp": 1657088218383,
+        "oldValue": "",
+        "newValue": "Нагоре"
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 842492,
+        "timestamp": 1603917481106,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.body": {
+    "value": "WebGL не е активиран или не е наличен. Кликнете, за да научите повече.",
+    "history": [
+      {
+        "userId": 374709,
+        "timestamp": 1488274800089,
+        "oldValue": "",
+        "newValue": "WebGL не е активиран или не е наличен. Кликнете, за да научите повече.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "Съжалявам възникна грешка с графиката.",
+    "history": [
+      {
+        "userId": 374709,
+        "timestamp": 1488274800088,
+        "oldValue": "",
+        "newValue": "Съжалявам възникна грешка с графиката.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "Презареди",
+    "history": [
+      {
+        "userId": 374709,
+        "timestamp": 1488274800088,
+        "oldValue": "",
+        "newValue": "Презареди",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.ie11StencilBody": {
+    "value": "Актуализирайте Internet Explorer, като инсталирате препоръчаните Windows Update  patches.",
+    "history": [
+      {
+        "userId": 374709,
+        "timestamp": 1488274800089,
+        "oldValue": "",
+        "newValue": "Актуализирайте Internet Explorer, като инсталирате препоръчаните Windows Update  patches.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "Работите с ниско качество на графиката",
+    "history": [
+      {
+        "userId": 374709,
+        "timestamp": 1488274800088,
+        "oldValue": "",
+        "newValue": "Работите с ниско качество на графиката",
+        "explanation": null
+      }
+    ]
+  }
+}

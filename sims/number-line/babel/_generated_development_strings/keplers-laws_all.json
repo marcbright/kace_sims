@@ -1,0 +1,322 @@
+{
+  "am": {
+    "screen.lab": {
+      "value": "ሙከራ"
+    }
+  },
+  "ar": {
+    "screen.lab": {
+      "value": "مختبر "
+    }
+  },
+  "az": {
+    "screen.lab": {
+      "value": "Laboratoriya"
+    }
+  },
+  "bs": {
+    "screen.lab": {
+      "value": "Lab"
+    }
+  },
+  "ca": {
+    "screen.lab": {
+      "value": "Laboratori"
+    }
+  },
+  "cs": {
+    "screen.lab": {
+      "value": "Laboratoř"
+    }
+  },
+  "da": {
+    "screen.lab": {
+      "value": "Laboratorium"
+    }
+  },
+  "de": {
+    "screen.lab": {
+      "value": "Labor"
+    }
+  },
+  "el": {
+    "screen.lab": {
+      "value": "Εργαστήριο"
+    }
+  },
+  "es": {
+    "screen.lab": {
+      "value": "Laboratorio"
+    }
+  },
+  "es_PE": {
+    "screen.lab": {
+      "value": "Laboratorio"
+    }
+  },
+  "eu": {
+    "screen.lab": {
+      "value": "Laborategia"
+    }
+  },
+  "fa": {
+    "screen.lab": {
+      "value": "آزمایشگاه"
+    }
+  },
+  "fr": {
+    "screen.lab": {
+      "value": "Lab"
+    }
+  },
+  "gu": {
+    "screen.lab": {
+      "value": "લેબ"
+    }
+  },
+  "ha": {
+    "screen.lab": {
+      "value": "Ɗakin bincike"
+    }
+  },
+  "hr": {
+    "screen.lab": {
+      "value": "Laboratorij"
+    }
+  },
+  "hu": {
+    "screen.lab": {
+      "value": "Labor"
+    }
+  },
+  "ig": {
+    "screen.lab": {
+      "value": "Ụlọ nyocha"
+    }
+  },
+  "is": {
+    "screen.lab": {
+      "value": "Tilraunastofa"
+    }
+  },
+  "it": {
+    "screen.lab": {
+      "value": "Laboratorio"
+    }
+  },
+  "iw": {
+    "screen.lab": {
+      "value": "מעבדה"
+    }
+  },
+  "ko": {
+    "screen.lab": {
+      "value": "실험실"
+    }
+  },
+  "lg": {
+    "screen.lab": {
+      "value": "Laabu"
+    }
+  },
+  "lt": {
+    "screen.lab": {
+      "value": "Laboratorija"
+    }
+  },
+  "mn": {
+    "screen.lab": {
+      "value": "Лаб"
+    }
+  },
+  "ny": {
+    "screen.lab": {
+      "value": "Lab"
+    }
+  },
+  "pl": {
+    "screen.lab": {
+      "value": "Lab"
+    }
+  },
+  "pt_BR": {
+    "screen.lab": {
+      "value": "Lab"
+    }
+  },
+  "ro": {
+    "screen.lab": {
+      "value": "Laborator"
+    }
+  },
+  "sk": {
+    "screen.lab": {
+      "value": "Laboratórium"
+    }
+  },
+  "sl": {
+    "screen.lab": {
+      "value": "Laboratorij"
+    }
+  },
+  "sr": {
+    "screen.lab": {
+      "value": "Лаб"
+    }
+  },
+  "st": {
+    "screen.lab": {
+      "value": "ho ea lefaat'seng"
+    }
+  },
+  "sv": {
+    "screen.lab": {
+      "value": "Labb"
+    }
+  },
+  "sw": {
+    "screen.lab": {
+      "value": "Mahabara"
+    }
+  },
+  "te": {
+    "screen.lab": {
+      "value": "ప్రయోగశాల"
+    }
+  },
+  "tg": {
+    "screen.lab": {
+      "value": "Лаборатория"
+    }
+  },
+  "th": {
+    "screen.lab": {
+      "value": "ปฏิบัติการ"
+    }
+  },
+  "tr": {
+    "screen.lab": {
+      "value": "Laboratuvar"
+    }
+  },
+  "vi": {
+    "screen.lab": {
+      "value": "Lab"
+    }
+  },
+  "zh_TW": {
+    "screen.lab": {
+      "value": "實驗室"
+    }
+  },
+  "en": {
+    "keplers-laws.title": {
+      "value": "Kepler's Laws"
+    },
+    "screen.firstLaw": {
+      "value": "First Law"
+    },
+    "screen.secondLaw": {
+      "value": "Second Law"
+    },
+    "screen.thirdLaw": {
+      "value": "Third Law"
+    },
+    "screen.lab": {
+      "value": "Lab"
+    },
+    "undefined": {
+      "value": "undefined"
+    },
+    "circularOrbit": {
+      "value": "Always circular"
+    },
+    "axis": {
+      "value": "Axes"
+    },
+    "foci": {
+      "value": "Foci"
+    },
+    "strings": {
+      "value": "String"
+    },
+    "semiaxis": {
+      "value": "Semiaxes"
+    },
+    "eccentricity": {
+      "value": "Eccentricity"
+    },
+    "eccentricityEquation": {
+      "value": "Eccentricity ="
+    },
+    "apoapsis": {
+      "value": "Apoapsis"
+    },
+    "periapsis": {
+      "value": "Periapsis"
+    },
+    "starMass": {
+      "value": "Star Mass"
+    },
+    "ourSun": {
+      "value": "Our Sun"
+    },
+    "period": {
+      "value": "Period"
+    },
+    "area.periodDivision": {
+      "value": "Period Divisions"
+    },
+    "area.values": {
+      "value": "Area Values"
+    },
+    "area.areaUnits": {
+      "value": "Area (AU<sup>2</sup>)"
+    },
+    "sweptArea": {
+      "value": "Swept Area"
+    },
+    "graph.title": {
+      "value": "a{{axisPower}} vs T{{periodPower}} Graph"
+    },
+    "graph.a": {
+      "value": "Semimajor Axis (a)"
+    },
+    "graph.t": {
+      "value": "Period (T)"
+    },
+    "symbols.semiMajorAxis": {
+      "value": "a"
+    },
+    "symbols.semiMinorAxis": {
+      "value": "b"
+    },
+    "symbols.focalDistance": {
+      "value": "c"
+    },
+    "symbols.period": {
+      "value": "T"
+    },
+    "symbols.radius": {
+      "value": "r"
+    },
+    "symbols.distance1": {
+      "value": "d<sub>1</sub>"
+    },
+    "symbols.distance2": {
+      "value": "d<sub>2</sub>"
+    },
+    "pattern.textEqualsValueUnits": {
+      "value": "{{text}} = {{value}} {{units}}"
+    },
+    "warning.warning": {
+      "value": "Warning"
+    },
+    "warning.crashOrbit": {
+      "value": "The body will crash into the sun"
+    },
+    "warning.escapeOrbit": {
+      "value": "The body will escape the system"
+    }
+  }
+}

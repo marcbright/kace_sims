@@ -1,0 +1,344 @@
+{
+  "screen.waves": {
+    "value": "Onde",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Onde"
+      }
+    ]
+  },
+  "concentrationPanel.lots": {
+    "value": "Alte",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Alta"
+      },
+      {
+        "userId": 332542,
+        "timestamp": 1663943139723,
+        "oldValue": "Alta",
+        "newValue": "Alte"
+      }
+    ]
+  },
+  "concentrationPanel.none": {
+    "value": "Nessuno",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Nessuno"
+      }
+    ]
+  },
+  "concentrationPanel.waterConcentrationPattern": {
+    "value": "H<sub>2</sub>O: {{value}}% umidità relativa",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "H<sub>2</sub>O: {{value}}% umidità relativa"
+      }
+    ]
+  },
+  "concentrationPanel.carbonDioxideConcentrationPattern": {
+    "value": "CO<sub>2</sub>: {{value}} ppm",
+    "history": [
+      {
+        "userId": 332542,
+        "timestamp": 1663943139723,
+        "oldValue": "",
+        "newValue": "CO<sub>2</sub>: {{value}} ppm"
+      }
+    ]
+  },
+  "concentrationPanel.methaneConcentrationPattern": {
+    "value": "CH<sub>4</sub>: {{value}} ppb",
+    "history": [
+      {
+        "userId": 332542,
+        "timestamp": 1663943139723,
+        "oldValue": "",
+        "newValue": "CH<sub>4</sub>: {{value}} ppm"
+      }
+    ]
+  },
+  "concentrationPanel.nitrousOxideConcentrationPattern": {
+    "value": "N<sub>2</sub>O: {{value}} ppb",
+    "history": [
+      {
+        "userId": 332542,
+        "timestamp": 1663943139723,
+        "oldValue": "",
+        "newValue": "N<sub>2</sub>O: {{value}} ppm"
+      }
+    ]
+  },
+  "concentrationPanel.greenhouseGasConcentration": {
+    "value": "Concentrazione dei gas serra",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Concentrazione dei gas serra"
+      }
+    ]
+  },
+  "concentrationPanel.iceAge": {
+    "value": "Era glaciale",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Era glaciale"
+      }
+    ]
+  },
+  "energyLegend.title": {
+    "value": "Energia",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Energia"
+      }
+    ]
+  },
+  "energyLegend.sunlight": {
+    "value": "Luce solare",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Luce solare"
+      }
+    ]
+  },
+  "energyLegend.infrared": {
+    "value": "Infrarosso",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Infrarosso"
+      }
+    ]
+  },
+  "cloud": {
+    "value": "Nuvola",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Nuvola"
+      }
+    ]
+  },
+  "surfaceThermometer": {
+    "value": "Termometro di superficie",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Termometro di superficie"
+      }
+    ]
+  },
+  "showSurfaceTemperature": {
+    "value": "Mostra la temperatura superficiale",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Mostra la temperatura superficiale"
+      }
+    ]
+  },
+  "startSunlight": {
+    "value": "Avvia l'illuminazione solare",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Avvia l'illuminazione solare"
+      }
+    ]
+  },
+  "energyBalancePanel.title": {
+    "value": "Bilancio energetico",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Bilancio energetico"
+      }
+    ]
+  },
+  "energyBalancePanel.subTitle": {
+    "value": "Parte alta dell'atmosfera",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Tetto dell'atmosfera"
+      },
+      {
+        "userId": 332542,
+        "timestamp": 1663943139723,
+        "oldValue": "Tetto dell'atmosfera",
+        "newValue": "Parte alta dell'atmosfera"
+      }
+    ]
+  },
+  "energyBalancePanel.in": {
+    "value": "entrata",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "entrata"
+      }
+    ]
+  },
+  "energyBalancePanel.out": {
+    "value": "uscita",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "uscita"
+      }
+    ]
+  },
+  "energyBalancePanel.net": {
+    "value": "netto",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "netto"
+      }
+    ]
+  },
+  "fluxMeter.sunlight": {
+    "value": "Luce solare",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Luce solare"
+      }
+    ]
+  },
+  "fluxMeter.infrared": {
+    "value": "Infrarosso",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Infrarosso"
+      }
+    ]
+  },
+  "fluxMeter.energyFlux": {
+    "value": "Flusso energetico",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Flusso energetico"
+      }
+    ]
+  },
+  "energyBalance": {
+    "value": "Bilancio energetico",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Bilancio energetico"
+      }
+    ]
+  },
+  "fluxMeter.title": {
+    "value": "Piranometro",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Piranometro"
+      }
+    ]
+  },
+  "temperature.units.kelvin": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 332542,
+        "timestamp": 1663943139723,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "temperature.units.celsius": {
+    "value": "°C",
+    "history": [
+      {
+        "userId": 332542,
+        "timestamp": 1663943139723,
+        "oldValue": "",
+        "newValue": "°C"
+      }
+    ]
+  },
+  "temperature.units.fahrenheit": {
+    "value": "°F",
+    "history": [
+      {
+        "userId": 332542,
+        "timestamp": 1663943139723,
+        "oldValue": "",
+        "newValue": "°F"
+      }
+    ]
+  },
+  "greenhouse-effect.title": {
+    "value": "Effetto serra",
+    "history": [
+      {
+        "userId": 157247,
+        "timestamp": 1647336457462,
+        "oldValue": "",
+        "newValue": "Effetto serra"
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "screen.lab": {
+    "value": "Mahabara",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "Mahabara"
+      }
+    ]
+  },
+  "screen.intro": {
+    "value": "Utangulizi",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "Utangulizi"
+      }
+    ]
+  },
+  "followCenterOfMass": {
+    "value": "Fuata kitovu cha Molekuli",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "Fuata kitovu cha Molekuli"
+      }
+    ]
+  },
+  "dataPanel.bodies": {
+    "value": "Miili",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "Miili"
+      }
+    ]
+  },
+  "unitsInfo.title": {
+    "value": "Maelezo juu ya vitengo",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "Maelezo juu ya vitengo"
+      }
+    ]
+  },
+  "dataPanel.moreData": {
+    "value": "Data zaidi",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "Data zaidi"
+      }
+    ]
+  },
+  "mode.sunAndPlanet": {
+    "value": "Jua na sayari",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "Jua na sayari"
+      }
+    ]
+  },
+  "mode.sunPlanetAndMoon": {
+    "value": "Jua,Sayari na nyota",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "Jua,Sayari na nyota"
+      }
+    ]
+  },
+  "mode.sunPlanetAndComet": {
+    "value": "Jua ,Sayari na nyotamkia",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "Jua ,Sayari na nyotamkia"
+      }
+    ]
+  },
+  "mode.trojanAsteroids": {
+    "value": "Asteroidi aina ya trojan",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "Asteroidi aina ya trojan"
+      }
+    ]
+  },
+  "mode.ellipses": {
+    "value": "ellipses",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671030654392,
+        "oldValue": "",
+        "newValue": "ellipses"
+      }
+    ]
+  },
+  "mode.hyperbolic": {
+    "value": "hyperboli",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671029838610,
+        "oldValue": "",
+        "newValue": "hyperboli"
+      }
+    ]
+  },
+  "mode.slingshot": {
+    "value": "Risasi Kombeo",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "Risasi Kombeo"
+      }
+    ]
+  },
+  "mode.doubleSlingshot": {
+    "value": "mara mbili ya risasi kombeo",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671029838610,
+        "oldValue": "",
+        "newValue": "mara mbili ya risasi kombeo"
+      }
+    ]
+  },
+  "mode.binaryStarPlanet": {
+    "value": "Nyota ya bainari, Sayari",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "Nyota ya bainari, Sayari"
+      }
+    ]
+  },
+  "mode.fourStarBallet": {
+    "value": "Nyota nne mpira",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "Nyota nne mpira"
+      }
+    ]
+  },
+  "mode.doubleDouble": {
+    "value": "mara mbili mbili",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "mbili mbili"
+      },
+      {
+        "userId": 973595,
+        "timestamp": 1671029838610,
+        "oldValue": "mbili mbili",
+        "newValue": "mara mbili mbili"
+      }
+    ]
+  },
+  "mode.custom": {
+    "value": "Maalum",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "Maalum"
+      }
+    ]
+  },
+  "pattern.labelParenthesesUnits": {
+    "value": "{{label}} ({{units}}",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671030654392,
+        "oldValue": "",
+        "newValue": "{{label}} ({{units}}"
+      }
+    ]
+  },
+  "mass": {
+    "value": "Molekuli",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "Molekuli"
+      }
+    ]
+  },
+  "units.kg": {
+    "value": "10<sup>28</sup> kg",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671030654392,
+        "oldValue": "",
+        "newValue": "10<sup>28</sup> kg"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Kitovu cha molekuli",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "Kitovu cha molekuli"
+      }
+    ]
+  },
+  "dataPanel.X": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "dataPanel.Y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "dataPanel.Vx": {
+    "value": "V<sub>x</sub>",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671030654392,
+        "oldValue": "",
+        "newValue": "V<sub>x</sub>"
+      }
+    ]
+  },
+  "dataPanel.Vy": {
+    "value": "V<sub>y</sub>",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671030654392,
+        "oldValue": "",
+        "newValue": "V<sub>y</sub>"
+      }
+    ]
+  },
+  "pattern.range": {
+    "value": "{{min}} to {{max}}",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671030654392,
+        "oldValue": "",
+        "newValue": "{{min}} to {{max}}"
+      }
+    ]
+  },
+  "my-solar-system.title": {
+    "value": "Mfumo wa jua",
+    "history": [
+      {
+        "userId": 973595,
+        "timestamp": 1671028669933,
+        "oldValue": "",
+        "newValue": "Sayari Yetu"
+      },
+      {
+        "userId": 973595,
+        "timestamp": 1671031155294,
+        "oldValue": "Sayari Yetu",
+        "newValue": "Mfumo wa jua"
+      }
+    ]
+  }
+}

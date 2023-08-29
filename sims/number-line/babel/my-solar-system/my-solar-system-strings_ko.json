@@ -1,0 +1,255 @@
+{
+  "screen.intro": {
+    "value": "서언",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "서언"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "실험실",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "실험실"
+      }
+    ]
+  },
+  "followCenterOfMass": {
+    "value": "질량중심 따르기",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "질량중심 따르기"
+      }
+    ]
+  },
+  "dataPanel.bodies": {
+    "value": "물체",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "물체"
+      }
+    ]
+  },
+  "unitsInfo.title": {
+    "value": "단위 안내",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "단위 안내"
+      }
+    ]
+  },
+  "dataPanel.moreData": {
+    "value": "추가 데이터",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "추가 데이터"
+      }
+    ]
+  },
+  "mode.sunAndPlanet": {
+    "value": "태양과 행성",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "태양과 행성"
+      }
+    ]
+  },
+  "mode.sunPlanetAndMoon": {
+    "value": "태양, 행성 및 달",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "태양, 행성 및 달"
+      }
+    ]
+  },
+  "mode.sunPlanetAndComet": {
+    "value": "태양, 행성 및 혜성",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "태양, 행성 및 혜성"
+      }
+    ]
+  },
+  "mode.trojanAsteroids": {
+    "value": "트로쟌 소행성",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "트로쟌 소행성"
+      }
+    ]
+  },
+  "mode.ellipses": {
+    "value": "타원",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "타원"
+      }
+    ]
+  },
+  "mode.hyperbolic": {
+    "value": "쌍곡선",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "쌍곡선"
+      }
+    ]
+  },
+  "mode.slingshot": {
+    "value": "새총",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "새총"
+      }
+    ]
+  },
+  "mode.doubleSlingshot": {
+    "value": "2중 새총",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "2중 새총"
+      }
+    ]
+  },
+  "mode.binaryStarPlanet": {
+    "value": "짝별과 행성",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "짝별과 행성"
+      }
+    ]
+  },
+  "mode.fourStarBallet": {
+    "value": "4성 발레",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "4성 발레"
+      }
+    ]
+  },
+  "mode.doubleDouble": {
+    "value": "2중의 2중",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "2중의 2중"
+      }
+    ]
+  },
+  "mode.custom": {
+    "value": "관례",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057534,
+        "oldValue": "",
+        "newValue": "관례"
+      }
+    ]
+  },
+  "mass": {
+    "value": "질량",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057535,
+        "oldValue": "",
+        "newValue": "질량"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "질량 중심",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057535,
+        "oldValue": "",
+        "newValue": "질량 중심"
+      }
+    ]
+  },
+  "dataPanel.X": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057535,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "dataPanel.Y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057535,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "my-solar-system.title": {
+    "value": "우리의 태양계",
+    "history": [
+      {
+        "userId": 154927,
+        "timestamp": 1675329057535,
+        "oldValue": "",
+        "newValue": "우리의 태양계"
+      }
+    ]
+  }
+}

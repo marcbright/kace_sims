@@ -1,0 +1,113 @@
+{
+  "en": {
+    "quadrilateral.title": {
+      "value": "Quadrilateral"
+    },
+    "labels": {
+      "value": "Labels"
+    },
+    "markers": {
+      "value": "Markers"
+    },
+    "diagonals": {
+      "value": "Diagonals"
+    },
+    "grid": {
+      "value": "Grid"
+    },
+    "vertexA": {
+      "value": "A"
+    },
+    "vertexB": {
+      "value": "B"
+    },
+    "vertexC": {
+      "value": "C"
+    },
+    "vertexD": {
+      "value": "D"
+    },
+    "shapeNameHidden": {
+      "value": "Shape Name Hidden"
+    },
+    "resetShape": {
+      "value": "Reset Shape"
+    },
+    "shapeNames.square": {
+      "value": "Square"
+    },
+    "shapeNames.rectangle": {
+      "value": "Rectangle"
+    },
+    "shapeNames.rhombus": {
+      "value": "Rhombus"
+    },
+    "shapeNames.kite": {
+      "value": "Kite"
+    },
+    "shapeNames.isoscelesTrapezoid": {
+      "value": "Isosceles Trapezoid"
+    },
+    "shapeNames.trapezoid": {
+      "value": "Trapezoid"
+    },
+    "shapeNames.concaveQuadrilateral": {
+      "value": "Concave Quadrilateral"
+    },
+    "shapeNames.convexQuadrilateral": {
+      "value": "Convex Quadrilateral"
+    },
+    "shapeNames.parallelogram": {
+      "value": "Parallelogram"
+    },
+    "shapeNames.dart": {
+      "value": "Dart"
+    },
+    "shapeNames.triangle": {
+      "value": "Triangle?"
+    },
+    "hapticsDialogMessage": {
+      "value": "Please note that this sim uses vibrational<br>haptics on devices that support it."
+    },
+    "gotIt": {
+      "value": "Got it."
+    },
+    "keyboardHelpDialog.moveSidesOrCorners": {
+      "value": "Move Sides or Corners"
+    },
+    "keyboardHelpDialog.moveASideOrCorner": {
+      "value": "Move a side or corner"
+    },
+    "keyboardHelpDialog.moveASideOrCornerInSmallerSteps": {
+      "value": "To move in smaller steps add Shift key"
+    },
+    "keyboardHelpDialog.mouse": {
+      "value": "Mouse"
+    },
+    "keyboardHelpDialog.shapeShortcuts": {
+      "value": "Shape Shortcuts"
+    },
+    "keyboardHelpDialog.resetShape": {
+      "value": "Reset Shape"
+    },
+    "preferencesDialog.shapeSoundOptions": {
+      "value": "Shape Sound Options"
+    },
+    "preferencesDialog.shapeSoundOptionsDescription": {
+      "value": "Choose the sound design you hear as you create different shapes."
+    },
+    "preferencesDialog.layerSoundDesignDescription": {
+      "value": "Layered sounds emphasize shared shape qualities (default)"
+    },
+    "preferencesDialog.independentSoundDesignDescription": {
+      "value": "Sounds emphasize independent shapes"
+    },
+    "preferencesDialog.playSoundsForever": {
+      "value": "Play Shape Sounds forever when checked in sim."
+    },
+    "smallSteps": {
+      "value": "Small Steps"
+    },
+    "a11y": {}
+  }
+}

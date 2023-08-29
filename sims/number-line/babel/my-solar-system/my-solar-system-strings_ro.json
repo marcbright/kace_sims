@@ -1,0 +1,310 @@
+{
+  "screen.intro": {
+    "value": "Introducere",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Introducere"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Laborator",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Laborator"
+      }
+    ]
+  },
+  "followCenterOfMass": {
+    "value": "Urmărește CM al sistemului",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Urmărește CM al sistemului"
+      }
+    ]
+  },
+  "dataPanel.bodies": {
+    "value": "Corpuri",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Corpuri"
+      }
+    ]
+  },
+  "unitsInfo.title": {
+    "value": "Notații unități",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Notații unități"
+      }
+    ]
+  },
+  "dataPanel.moreData": {
+    "value": "Mai multe date",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Mai multe date"
+      }
+    ]
+  },
+  "mode.sunAndPlanet": {
+    "value": "Soare și planetă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Soare și planetă"
+      }
+    ]
+  },
+  "mode.sunPlanetAndMoon": {
+    "value": "Soare, planetă și Lună",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Soare, planetă și Lună"
+      }
+    ]
+  },
+  "mode.sunPlanetAndComet": {
+    "value": "Soare, planetă și cometă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Soare, planetă și cometă"
+      }
+    ]
+  },
+  "mode.trojanAsteroids": {
+    "value": "Asteroizi troieni",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Asteroizi troieni"
+      }
+    ]
+  },
+  "mode.ellipses": {
+    "value": "Elipse",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Elipse"
+      }
+    ]
+  },
+  "mode.hyperbolic": {
+    "value": "Hiperbole",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Hiperbole"
+      }
+    ]
+  },
+  "mode.slingshot": {
+    "value": "Praștie",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Praștie"
+      }
+    ]
+  },
+  "mode.doubleSlingshot": {
+    "value": "Praștie dublă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Praștie dublă"
+      }
+    ]
+  },
+  "mode.binaryStarPlanet": {
+    "value": "Stele duble, planetă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Stele duble, planetă"
+      }
+    ]
+  },
+  "mode.fourStarBallet": {
+    "value": "Balet cu patru stele",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Balet cu patru stele"
+      }
+    ]
+  },
+  "mode.doubleDouble": {
+    "value": "Perechi, perechi",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Perechi, perechi"
+      }
+    ]
+  },
+  "mode.custom": {
+    "value": "Particularizare",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Particularizare"
+      }
+    ]
+  },
+  "pattern.labelParenthesesUnits": {
+    "value": "{{label}} ({{units}})",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "{{label}} ({{units}})"
+      }
+    ]
+  },
+  "mass": {
+    "value": "Masă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Masă"
+      }
+    ]
+  },
+  "units.kg": {
+    "value": "10<sup>28</sup> kg",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "10<sup>28</sup> kg"
+      }
+    ]
+  },
+  "centerOfMass": {
+    "value": "Centrul de masă",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Centrul de masă"
+      }
+    ]
+  },
+  "dataPanel.X": {
+    "value": "x",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "x"
+      }
+    ]
+  },
+  "dataPanel.Y": {
+    "value": "y",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "y"
+      }
+    ]
+  },
+  "dataPanel.Vx": {
+    "value": "V<sub>x</sub>",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "V<sub>x</sub>"
+      }
+    ]
+  },
+  "dataPanel.Vy": {
+    "value": "V<sub>y</sub>",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "V<sub>y</sub>"
+      }
+    ]
+  },
+  "pattern.range": {
+    "value": "De la {{min}} la {{max}}",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "De la {{min}} la {{max}}"
+      }
+    ]
+  },
+  "my-solar-system.title": {
+    "value": "Sistemul meu solar",
+    "history": [
+      {
+        "userId": 183155,
+        "timestamp": 1670307679910,
+        "oldValue": "",
+        "newValue": "Sistemul meu solar"
+      }
+    ]
+  }
+}

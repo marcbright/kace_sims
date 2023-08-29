@@ -1,0 +1,85 @@
+{
+  "lg": {
+    "cameraInputFlipYHeading": {
+      "value": "Emikono gyo giteekeddwa ku maapu ku emikono emiffu ejasimulesoni?"
+    },
+    "cameraInputFlipXHeading": {
+      "value": "Emikono gyo gigitanbuza emikono ejasimulesoni ku mukono omuffu?"
+    },
+    "cameraInputRequiresInternet": {
+      "value": "Camera Input yeetaaga omukutu gwa yintaneeti."
+    },
+    "cameraInputHands": {
+      "value": "Okuyingiza Kkamera: Emikono"
+    },
+    "errorLoadingCameraInputHands": {
+      "value": "Ensobi Mu Kutikka Okuyingiza Kamera: Emikono"
+    },
+    "cameraInputFlipX": {
+      "value": "Flip kamera X-ekisiki"
+    },
+    "cameraInputFlipY": {
+      "value": "Flip kamera Y-ekisiki."
+    },
+    "troubleshootingParagraph": {
+      "value": "Bwe kiba kyetaagisa, kozesa eby’okulonda wansi okukyusa enneeyisa y’emikono egyasimulesoni okukwatagana n’entambula z’emikono gyo."
+    },
+    "noMediaDevice": {
+      "value": "Tewali kyuma kya mawulire ekiriwo. pulogulaamu ekikozesa?"
+    },
+    "noMediaDevices": {
+      "value": "Tewali kyuma kya mawulire"
+    },
+    "troubleshootingCameraInputHands": {
+      "value": "Okugonjoola ebizibu Camera Input: Emikono"
+    },
+    "cameraInputHandsHelpText": {
+      "value": "Kozesa entambula z’emikono ejiweredwa okufuga simulesoni."
+    }
+  },
+  "en": {
+    "tangible.title": {
+      "value": "tangible demo"
+    },
+    "cameraInputHands": {
+      "value": "Camera Input: Hands"
+    },
+    "inputDevice": {
+      "value": "Input Device:"
+    },
+    "cameraInputRequiresInternet": {
+      "value": "Camera Input requires an internet connection."
+    },
+    "noMediaDevices": {
+      "value": "No media devices available"
+    },
+    "noMediaDevice": {
+      "value": "No available media device. Is it being used by another program?"
+    },
+    "errorLoadingCameraInputHands": {
+      "value": "Error Loading Camera Input: Hands"
+    },
+    "cameraInputHandsHelpText": {
+      "value": "Use custom hand movements to control the sim."
+    },
+    "cameraInputFlipX": {
+      "value": "Flip camera X-axis."
+    },
+    "cameraInputFlipXHeading": {
+      "value": "Are your hands moving the simulation hands in the wrong direction?"
+    },
+    "cameraInputFlipY": {
+      "value": "Flip camera Y-axis."
+    },
+    "cameraInputFlipYHeading": {
+      "value": "Are your hands mapped to the wrong simulation hands?"
+    },
+    "troubleshootingCameraInputHands": {
+      "value": "Troubleshooting Camera Input: Hands"
+    },
+    "troubleshootingParagraph": {
+      "value": "If needed, use the options below to change the behavior of the simulation hands to match your hand movements."
+    },
+    "a11y": {}
+  }
+}
