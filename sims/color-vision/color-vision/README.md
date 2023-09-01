@@ -1,12 +1,4 @@
-Color Vision
-=============
-"Color Vision" is an educational simulation in HTML5, by <a href="https://phet.colorado.edu/" target="_blank">PhET Interactive Simulations</a>
-at the University of Colorado Boulder.
 
-
-<a href="https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_en.html" target="_blank">
-<img src="https://raw.githubusercontent.com/phetsims/color-vision/master/assets/color-vision-screenshot.png" alt="Screenshot" style="width: 400px;"/>
-</a>
 
 ### Documentation
 The <a href="https://github.com/phetsims/phet-info/blob/master/doc/phet-development-overview.md" target="_blank">PhET Development Overview</a> is the most complete guide to PhET Simulation
