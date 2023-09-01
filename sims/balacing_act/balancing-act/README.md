@@ -3,7 +3,7 @@ Balancing Act
 "Balancing Act" is an educational simulation in HTML5, by <a href="https://phet.colorado.edu/" target="_blank">PhET Interactive Simulations</a>
 at the University of Colorado Boulder.
 For a description of this simulation, associated resources, and a link to the published version,
-<a href="https://phet.colorado.edu/en/simulation/balancing-act" target="_blank">visit the simulation's web page</a>.
+
 
 
 
