@@ -6,6 +6,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
@@ -17,9 +18,9 @@
 						<div class="inner">
 
 							<!-- Logo -->
-								<!-- <a href="index.html" class="logo">
-									<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">Phantom</span>
-								</a> -->
+								<a href="index.html" class="logo">
+									<span class="symbol"><img src="images/gi_kace_logo.png" alt="" /></span><span class="title">gi-kace</span>
+								</a>
 
 							<!-- Nav -->
 								<nav>
@@ -48,22 +49,18 @@
 						<div class="inner">
 							<header>
 								<h1>Welcome to AITI-KACE Simulations<br />
-								designed by <a href="https://www.aiti-kace.com.gh/">The Ghana-India Kofi Annan Centre of Excellence in ICT</a>.</h1>
-								<p>Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.</p>
+								designed by <a class="aiti_kace" href="https://www.aiti-kace.com.gh/">The Ghana-India Kofi Annan Centre of Excellence in ICT</a>.</h1>
+								<p>Experience a dynamic journey that allows you to explore, learn, and experiment. Our simulation is designed to be user-friendly, making it accessible to everyone, regardless of your background or expertise. Whether you're a student, a professional, or simply curious, you'll find our simulation easy to navigate and comprehend.</p>
+								<p>Dive in and discover the fascinating world of simulations as you interact with various scenarios, gaining insights and knowledge along the way. No special skills or prior knowledge are required. Just click, explore, and learn. Enjoy your journey! 🚀</p>
+
 							</header>
 							<section class="tiles">
-								<!-- Trying iframe -->
-								<!-- <div>
-									<article class="style1">
-										<iframe src="/sims/balacing_act/balancing-act/build/adapted-from-phet/xhtml/balancing-act_all_adapted-from-phet.xhtml" frameborder="0"></iframe>
-								</div> -->
-								
 
 								<article class="style1">
 									<span class="image">
 										<img src="images/img_2.jpg" alt="" />
 									</span>
-									<a href="/sims/balacing_act/balancing-act/build/adapted-from-phet/xhtml/balancing-act_all_adapted-from-phet.xhtml">
+									<a href="/sims/balacing_act/balancing-act/build/adapted-from-phet/xhtml/balancing-act_all_adapted-from-phet.xhtml" onclick="loadInIframe(this.href); return false;">
 										<h2>Balancing Act</h2>
 										<div class="content">
 											<p>Predict how objects of various masses can be used to make a plank balance.</p>
@@ -205,9 +202,10 @@
 							</section>
 						</div>
 					</div>
+					
 
 				<!-- Footer -->
-					<footer id="footer">
+					<!-- <footer id="footer">
 						<div class="inner">
 							<section>
 								<h2>Get in touch</h2>
@@ -245,7 +243,7 @@
 								<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="https://www.aiti-kace.com.gh/">AITI-KACE</a></li>
 							</ul> -->
 						</div>
-					</footer>
+					</footer> -->
 
 			</div>
 
@@ -255,6 +253,20 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script>
+				 function loadInIframe(url) {
+					const iframe = document.createElement('iframe');
+					iframe.src = url;
+            		iframe.style.width = '100%';
+					iframe.style.height = '500px'; 
+					iframe.style.border = 'none';
+
+					// Replace the content of the main element with the iframe
+					const main = document.getElementById('main');
+					main.innerHTML = '';
+					main.appendChild(iframe);
+				 }
+			</script>
 
 	</body>
 </html>

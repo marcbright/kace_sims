@@ -51,6 +51,11 @@ body {
 	-webkit-text-size-adjust: none;
 }
 
+.aiti_kace {
+	text-decoration: dotted;
+	color: lightblue;
+}
+
 mark {
 	background-color: transparent;
 	color: inherit;
@@ -2846,13 +2851,13 @@ input, select, textarea {
 			}
 
 			#header .logo .symbol {
-				margin-right: 0.65em;
+				margin-right: 0.15em;
 			}
 
 				#header .logo .symbol img {
 					display: block;
-					width: 2em;
-					height: 2em;
+					width: 4.5em;
+					height: 4em;
 				}
 
 		#header nav {
@@ -3307,6 +3312,11 @@ input, select, textarea {
 
 		}
 
+	.iframe{
+		border: none;
+        width: 80%; /* Set an initial width */
+        height: 60%; /* Set an initial height */
+	}
 /* Wrapper */
 
 	#wrapper > * > .inner {
