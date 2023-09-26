@@ -1,17 +1,4 @@
 pH Scale
-=============
-"pH Scale" is an educational simulation in HTML5, by <a href="https://phet.colorado.edu/" target="_blank">PhET Interactive Simulations</a>
-at the University of Colorado Boulder.
-For a description of this simulation, associated resources, and a link to the published version,
-<a href="https://phet.colorado.edu/en/simulation/ph-scale" target="_blank">visit the simulation's web page</a>.
-
-### Try it!
-
-<a href="https://phet.colorado.edu/sims/html/ph-scale/latest/ph-scale_en.html" target="_blank">Click here to run "pH Scale".</a>
-
-<a href="https://phet.colorado.edu/sims/html/ph-scale/latest/ph-scale_en.html" target="_blank">
-<img src="https://raw.githubusercontent.com/phetsims/ph-scale/master/assets/ph-scale-screenshot.png" alt="Screenshot" style="width: 400px;"/>
-</a>
 
 ### Documentation
 The <a href="https://github.com/phetsims/phet-info/blob/master/doc/phet-development-overview.md" target="_blank">PhET Development Overview</a> is the most complete guide to PhET Simulation
