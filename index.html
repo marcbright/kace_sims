@@ -239,9 +239,9 @@
 									<li><a href="#" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
 								</ul>
 							</section>
-							<!-- <ul class="copyright">
+							<ul class="copyright">
 								<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="https://www.aiti-kace.com.gh/">AITI-KACE</a></li>
-							</ul> -->
+							</ul>
 						</div>
 					</footer> -->
 
@@ -255,16 +255,35 @@
 			<script src="assets/js/main.js"></script>
 			<script>
 				 function loadInIframe(url) {
+					 // Create a container for both the open iframe and unopened anchor
+					const container = document.createElement('div');
+					container.style.display = 'flex';
+					container.style.flexDirection = 'column'; // Display vertically
+					container.style.alignItems = 'center'; // Center align horizontally
+					container.style.margin = '0 50px'; // Add margin on both sides
+
+					 // Create the open iframe
 					const iframe = document.createElement('iframe');
 					iframe.src = url;
-            		iframe.style.width = '100%';
-					iframe.style.height = '500px'; 
+					iframe.style.width = '100%';
+					iframe.style.height = '500px';
 					iframe.style.border = 'none';
 
-					// Replace the content of the main element with the iframe
+					 // Append the open iframe to the container
+    				container.appendChild(iframe);
+
+					// Create a link to the unopened anchor
+					const unopenedAnchor = document.createElement('a');
+					unopenedAnchor.href = url; // Set the same URL
+					unopenedAnchor.textContent = ''; // You can customize this text
+
+					 // Append the unopened anchor to the container
+    				container.appendChild(unopenedAnchor);
+
+					// Replace the content of the main element with the container
 					const main = document.getElementById('main');
 					main.innerHTML = '';
-					main.appendChild(iframe);
+					main.appendChild(container);
 				 }
 			</script>
 
