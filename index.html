@@ -48,7 +48,7 @@
 					<div id="main">
 						<div class="inner">
 							<header>
-								<h1>Welcome to AITI-KACE Simulations<br />
+								<h1>Welcome to KACE Simulations,
 								designed by <a class="aiti_kace" href="https://www.aiti-kace.com.gh/">The Ghana-India Kofi Annan Centre of Excellence in ICT</a>.</h1>
 								<p>Experience a dynamic journey that allows you to explore, learn, and experiment. Our simulation is designed to be user-friendly, making it accessible to everyone, regardless of your background or expertise. Whether you're a student, a professional, or simply curious, you'll find our simulation easy to navigate and comprehend.</p>
 								<p>Dive in and discover the fascinating world of simulations as you interact with various scenarios, gaining insights and knowledge along the way. No special skills or prior knowledge are required. Just click, explore, and learn. Enjoy your journey! 🚀</p>
@@ -58,7 +58,7 @@
 
 								<article class="style1">
 									<span class="image">
-										<img src="images/img_2.jpg" alt="" />
+										<img src="images/pic01.jpg" alt="" />
 									</span>
 									<a href="/sims/balacing_act/balancing-act/build/adapted-from-phet/xhtml/balancing-act_all_adapted-from-phet.xhtml" onclick="loadInIframe(this.href); return false;">
 										<h2>Balancing Act</h2>
@@ -71,7 +71,7 @@
 									<span class="image">
 										<img src="images/pic02.jpg" alt="" />
 									</span>
-									<a href="/sims/ph-scale/ph-scale/build/adapted-from-phet/xhtml/ph-scale_all_adapted-from-phet.xhtml">
+									<a href="/sims/ph-scale/ph-scale/build/adapted-from-phet/xhtml/ph-scale_all_adapted-from-phet.xhtml" onclick="loadInIframe(this.href); return false;">
 										<h2>PH-Scale</h2>
 										<div class="content">
 											<p>Determine if a solution is acidic, basic or neutral.</p>
@@ -82,10 +82,10 @@
 									<span class="image">
 										<img src="images/pic03.jpg" alt="" />
 									</span>
-									<a href="/sims/diffusion/diffusion/build/adapted-from-phet/xhtml/diffusion_all_adapted-from-phet.xhtml">
+									<a href="/sims/diffusion/diffusion/build/adapted-from-phet/xhtml/diffusion_all_adapted-from-phet.xhtml" onclick="loadInIframe(this.href); return false;">
 										<h2>Diffusion</h2>
 										<div class="content">
-											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+											<p>Explain how two gases mix.</p>
 										</div>
 									</a>
 								</article>
@@ -93,10 +93,10 @@
 									<span class="image">
 										<img src="images/pic04.jpg" alt="" />
 									</span>
-									<a href="/sims/color-vision/color-vision/build/adapted-from-phet/xhtml/color-vision_all_adapted-from-phet.xhtml">
+									<a href="/sims/color-vision/color-vision/build/adapted-from-phet/xhtml/color-vision_all_adapted-from-phet.xhtml" onclick="loadInIframe(this.href); return false;">
 										<h2>Color Vision</h2>
 										<div class="content">
-											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+											<p>Determine what color the person sees for various combinations of red, green, and blue light.</p>
 										</div>
 									</a>
 								</article>
@@ -104,10 +104,11 @@
 									<span class="image">
 										<img src="images/pic05.jpg" alt="" />
 									</span>
-									<a href="/sims/density/density/build/adapted-from-phet/xhtml/density_all_adapted-from-phet.xhtml">
+									<a href="/sims/density/density/build/adapted-from-phet/xhtml/density_all_adapted-from-phet.xhtml" onclick="loadInIframe(this.href); return false;">
 										<h2>Density</h2>
 										<div class="content">
-											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+											<p>Describe how the concept of density relates to an object's mass and volume.</p>
+											<p>Explain how objects of similar mass can have differing volume, and how objects of similar volume can have differing mass.</p>
 										</div>
 									</a>
 								</article>
@@ -115,14 +116,15 @@
 									<span class="image">
 										<img src="images/pic06.jpg" alt="" />
 									</span>
-									<a href="/sims/gravity_/gravity-and-orbits/build/adapted-from-phet/xhtml/gravity-and-orbits_all_adapted-from-phet.xhtml">
+									<a href="/sims/gravity_/gravity-and-orbits/build/adapted-from-phet/xhtml/gravity-and-orbits_all_adapted-from-phet.xhtml" onclick="loadInIframe(this.href); return false;">
 										<h2>Gravity</h2>
 										<div class="content">
-											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+											<p>Describe the relationship between the Sun, Earth, Moon and space station, including orbits and positions.</p>
+											<p>Describe the size and distance between the Sun, Earth, Moon and space station</p>
 										</div>
 									</a>
 								</article>
-								<article class="style2">
+								<!-- <article class="style2">
 									<span class="image">
 										<img src="images/pic07.jpg" alt="" />
 									</span>
@@ -198,7 +200,7 @@
 											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
 										</div>
 									</a>
-								</article>
+								</article> -->
 							</section>
 						</div>
 					</div>
@@ -253,39 +255,7 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-			<script>
-				 function loadInIframe(url) {
-					 // Create a container for both the open iframe and unopened anchor
-					const container = document.createElement('div');
-					container.style.display = 'flex';
-					container.style.flexDirection = 'column'; // Display vertically
-					container.style.alignItems = 'center'; // Center align horizontally
-					container.style.margin = '0 50px'; // Add margin on both sides
-
-					 // Create the open iframe
-					const iframe = document.createElement('iframe');
-					iframe.src = url;
-					iframe.style.width = '100%';
-					iframe.style.height = '500px';
-					iframe.style.border = 'none';
-
-					 // Append the open iframe to the container
-    				container.appendChild(iframe);
-
-					// Create a link to the unopened anchor
-					const unopenedAnchor = document.createElement('a');
-					unopenedAnchor.href = url; // Set the same URL
-					unopenedAnchor.textContent = ''; // You can customize this text
-
-					 // Append the unopened anchor to the container
-    				container.appendChild(unopenedAnchor);
-
-					// Replace the content of the main element with the container
-					const main = document.getElementById('main');
-					main.innerHTML = '';
-					main.appendChild(container);
-				 }
-			</script>
+			<script src="assets/js/loadiframe.js"></script>
 
 	</body>
 </html>
