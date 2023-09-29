@@ -17,8 +17,8 @@ function loadInIframe(url) {
         const screenWidth = window.innerWidth;
         if (screenWidth < 768) {
             // Adjust position for smaller screens
-            closeButton.style.top = '10px';
-            closeButton.style.left = '10px';
+            closeButton.style.top = '170px';
+            closeButton.style.left = '60px';
         } else {
             // Default position for larger screens
             closeButton.style.top = '280px';
