@@ -7,7 +7,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="icon" href="images/gi_kace_logo.png" type="image/x-icon">
 	</head>
 	<body class="is-preload">
 		<!-- Wrapper -->
@@ -18,7 +20,7 @@
 						<div class="inner">
 
 							<!-- Logo -->
-								<a href="index.html" class="logo">
+								<a href="index.html" class="logo animate__animated animate__bounceInUp">
 									<span class="symbol"><img src="images/gi_kace_logo.png" alt="" /></span><span class="title">gi-kace</span>
 								</a>
 
@@ -48,7 +50,7 @@
 					<div id="main">
 						<div class="inner">
 							<header>
-								<h1>Welcome to KACE Simulations,
+								<h1 class="animate__animated animate__slideInDown">Welcome to KACE Simulations,
 								designed by <a class="aiti_kace" href="https://www.aiti-kace.com.gh/">The Ghana-India Kofi Annan Centre of Excellence in ICT</a>.</h1>
 								<p>Experience a dynamic journey that allows you to explore, learn, and experiment. Our simulation is designed to be user-friendly, making it accessible to everyone, regardless of your background or expertise. Whether you're a student, a professional, or simply curious, you'll find our simulation easy to navigate and comprehend.</p>
 								<p>Dive in and discover the fascinating world of simulations as you interact with various scenarios, gaining insights and knowledge along the way. No special skills or prior knowledge are required. Just click, explore, and learn. Enjoy your journey! 🚀</p>
@@ -67,6 +69,8 @@
 										</div>
 									</a>
 								</article>
+
+
 								<article class="style2">
 									<span class="image">
 										<img src="images/pic02.jpg" alt="" />
@@ -124,14 +128,14 @@
 										</div>
 									</a>
 								</article>
-								<!-- <article class="style2">
+								<article class="style1">
 									<span class="image">
-										<img src="images/pic07.jpg" alt="" />
+										<img src="images/img_2.jpg" alt="" />
 									</span>
-									<a href="generic.html">
-										<h2>Ipsum</h2>
+									<a href="/sims/number-line/number-line-operations/build/adapted-from-phet/xhtml/number-line-operations_all_adapted-from-phet.xhtml" onclick="loadInIframe(this.href); return false;">
+										<h2>Number Line: Integers</h2>
 										<div class="content">
-											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+											<p>Predict how objects of various masses can be used to make a plank balance.</p>
 										</div>
 									</a>
 								</article>
@@ -139,14 +143,26 @@
 									<span class="image">
 										<img src="images/pic08.jpg" alt="" />
 									</span>
-									<a href="generic.html">
-										<h2>Dolor</h2>
+									<a href="/sims/center-and-variability/center-and-variability/build/adapted-from-phet/xhtml/center-and-variability_all_adapted-from-phet.xhtml" onclick="loadInIframe(this.href); return false;">
+										<h2>Center and Variability</h2>
 										<div class="content">
-											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+											<p>Describe how the median is derived. Predict the effects of an outlier on both the mean and median.</p>
 										</div>
 									</a>
 								</article>
-								<article class="style1">
+								<article class="style2">
+									<span class="image">
+										<img src="images/pic02.jpg" alt="" />
+									</span>
+									<a href="/sims/number-compare/number-compare/build/adapted-from-phet/xhtml/number-compare_all_adapted-from-phet.xhtml" onclick="loadInIframe(this.href); return false;">
+										<h2>Number Compare</h2>
+										<div class="content">
+											<p>Compare numbers and quantities up to 10, using a strategy such as grouping, subitizing, counting, or a number line.
+												Compare quantities in ten frames.</p>
+										</div>
+									</a>
+								</article>
+								<!--<article class="style1">
 									<span class="image">
 										<img src="images/pic09.jpg" alt="" />
 									</span>
@@ -247,6 +263,18 @@
 						</div>
 					</footer> -->
 
+					<div class="container">
+						<ul class="pagination">
+							<li><a href="#" class="prev">Prev</a></li>
+							<li><a href="index.html" data-page="1">1</a></li>
+							<li><a href="page_2.html" data-page="2">2</a></li>
+							<li><a href="page3.html" data-page="3">3</a></li>  
+							<li><a href="page4.html" data-page="4">4</a></li>
+							<li><a href="page5.html" data-page="5">5</a></li>
+							<li><a href="#" class="next">Next</a></li>
+						</ul>
+					</div>
+
 			</div>
 
 		<!-- Scripts -->
@@ -256,6 +284,8 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 			<script src="assets/js/loadiframe.js"></script>
+			<script src="assets/js/pagination.js"></script>
+			<script src="assets/js/article.js"></script>
 
 	</body>
 </html>

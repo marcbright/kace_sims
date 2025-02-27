@@ -3333,3 +3333,72 @@ input, select, textarea {
 			}
 
 		}
+
+
+	
+		.container {
+			display: flex;
+			justify-content: center; /* Center horizontally */
+			align-items: center; /* Center vertically (if needed) */
+			padding: 20px; /* Add some padding around the pagination */
+		  }
+		  
+		  .pagination {
+			display: flex;
+			list-style: none; /* Remove default list styling */
+			padding: 0;
+			margin: 0;
+		  }
+		  
+		  .pagination li {
+			margin: 0 5px; /* Add some space between list items */
+		  }
+		  
+		  .pagination a {
+			display: flex; /* Make items behave like blocks for better alignment */
+			align-items: center; /* Vertically center content */
+			justify-content: center; /* Horizontally center content */
+			padding: 8px 12px;
+			text-decoration: none;
+			color: #333;
+			border: 1px solid #ddd;
+			border-radius: 4px; /* Rounded corners */
+			min-width: 30px; /* Ensure a minimum width for better appearance */
+		  }
+
+		  .pagination .disabled {
+			pointer-events: none;
+			opacity: 0.5;
+			cursor: not-allowed;
+		}
+		  
+		  .pagination a:hover {
+			background-color: #eee;
+		  }
+		  
+		  .pagination li.active a {
+			background-color: #007bff; /* Highlight current page */
+			color: white;
+			border-color: #007bff;
+		  }
+		  
+		  /* Responsive Design */
+		  @media (max-width: 768px) { /* Adjust breakpoint as needed */
+			.pagination {
+			  flex-wrap: wrap; /* Allow items to wrap onto multiple lines */
+			  justify-content: center; /* Center items on smaller screens */
+			}
+		  
+			.pagination li {
+			  margin: 4px; /* Reduce margin between items */
+			}
+		  
+			.pagination a {
+			  padding: 6px 10px; /* Reduce padding */
+			  font-size: 0.9rem; /* Slightly smaller font */
+			  min-width: 25px; /* Adjust min-width if needed */
+			}
+		  }
+
+
+		  

@@ -6,7 +6,10 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="icon" href="images/gi_kace_logo.png" type="image/x-icon">
 	</head>
 	<body class="is-preload">
 		<!-- Wrapper -->
@@ -44,61 +47,28 @@
 					</nav>
 
 				<!-- Main -->
-				<div id="main">
-					<div class="inner">
-						<header>
-							<h1>MATHEMATICS SIMS</h1>
-							<p>Mathematics simulations are interactive computational tools that provide a dynamic platform for exploring mathematical concepts. They enable users to manipulate variables, visualize mathematical relationships, and observe outcomes in real time. These simulations cover a wide range of mathematical topics, making them invaluable for both learning and practical applications. They enhance mathematical intuition, problem-solving skills, and real-world problem-solving capabilities. Moreover, they find applications in various fields, including engineering, physics, economics, and computer science, where mathematical models and simulations aid in complex system analysis and informed decision-making. Overall, mathematics simulations bridge the gap between theory and practice, enhancing mathematical understanding and fostering mathematical literacy.</p>
-						</header>
-						<section class="tiles">
-							<article class="style1">
-								<span class="image">
-									<img src="images/img_2.jpg" alt="" />
-								</span>
-								<a href="/sims/number-line/number-line-operations/build/adapted-from-phet/xhtml/number-line-operations_all_adapted-from-phet.xhtml" onclick="loadInIframe(this.href); return false;">
-									<h2>Number Line: Integers</h2>
-									<div class="content">
-										<p>Predict how objects of various masses can be used to make a plank balance.</p>
-									</div>
-								</a>
-							</article>
-							<article class="style3">
-								<span class="image">
-									<img src="images/pic08.jpg" alt="" />
-								</span>
-								<a href="/sims/center-and-variability/center-and-variability/build/adapted-from-phet/xhtml/center-and-variability_all_adapted-from-phet.xhtml" onclick="loadInIframe(this.href); return false;">
-									<h2>Center and Variability</h2>
-									<div class="content">
-										<p>Describe how the median is derived. Predict the effects of an outlier on both the mean and median.</p>
-									</div>
-								</a>
-							</article>
-							<article class="style6">
-								<span class="image">
-									<img src="images/pic06.jpg" alt="" />
-								</span>
-								<a href="/sims/number-compare/number-compare/build/adapted-from-phet/xhtml/number-compare_all_adapted-from-phet.xhtml" onclick="loadInIframe(this.href); return false;">
-									<h2>Number Compare</h2>
-									<div class="content">
-										<p>Compare numbers and quantities up to 10, using a strategy such as grouping, subitizing, counting, or a number line.
-											Compare quantities in ten frames.</p>
-									</div>
-								</a>
-							</article>
-							<!--<article class="style4">
-								<span class="image">
-									<img src="images/pic04.jpg" alt="" />
-								</span>
-								<a href="generic.html">
-									<h2>Tempus</h2>
-									<div class="content">
-										<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-									</div>
-								</a>
-							</article> -->
-						</section>
+					<div id="main">
+						<div class="inner">
+							<header>
+								<h1 class="animate__animated animate__bounce">Discover Simulations in Action</h1>
+							</header>
+							<section class="tiles">
+
+								<article class="style1">
+									<span class="image">
+										<img src="images/pic01.jpg" alt="" />
+									</span>
+									<a href="/sims/balacing_act/balancing-act/build/adapted-from-phet/xhtml/balancing-act_all_adapted-from-phet.xhtml" onclick="loadInIframe(this.href); return false;">
+										<h2>Balancing Act</h2>
+										<div class="content">
+											<p>Predict how objects of various masses can be used to make a plank balance.</p>
+										</div>
+									</a>
+								</article>
+							</section>
+						</div>
 					</div>
-				</div>
+					
 
 				<!-- Footer -->
 					<!-- <footer id="footer">
@@ -136,10 +106,22 @@
 								</ul>
 							</section>
 							<ul class="copyright">
-								<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+								<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="https://www.aiti-kace.com.gh/">AITI-KACE</a></li>
 							</ul>
 						</div>
 					</footer> -->
+
+					<div class="container">
+                        <ul class="pagination">
+                            <li><a href="#" class="prev">Prev</a></li>
+                            <li><a href="index.html" data-page="1">1</a></li>
+                            <li><a href="page_2.html" data-page="2">2</a></li>
+                            <li><a href="page3.html" data-page="3">3</a></li>  
+                            <li><a href="page4.html" data-page="4">4</a></li>
+                            <li><a href="page5.html" data-page="5">5</a></li>
+                            <li><a href="#" class="next">Next</a></li>
+                        </ul>
+                    </div>
 
 			</div>
 
@@ -150,6 +132,8 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 			<script src="assets/js/loadiframe.js"></script>
+			<script src="assets/js/pagination.js"></script>
+			<script src="assets/js/article.js"></script>
 
 	</body>
 </html>
